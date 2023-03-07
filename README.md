@@ -6,7 +6,7 @@
 
 You can:
 
-1. fork this project and deploy under your glitch account and let it working for yourself, it should be enough.
+1. fork this project and deploy under your glitch account and let it working for yourself. See [how to deploy under my own glitch account](https://github.com/jwenjian/visitor-badge/issues/29) for details.
 2. use [hits](https://github.com/dwyl/hits) / [visitor-badge@plantree](https://plantree.github.io/project-docs/visitor-badge/introduction.html) as alternative solution
 3. consider a donation :-)
 
